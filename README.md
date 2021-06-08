@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Dalton, a Software Engineer / Game Developer
+
+- 🔭 Unity • Unreal • C# • C++ • Mobile
+- 📫 [daltonlima.com](https://daltonlima.com) • [twitter.com/daltonbr](https://twitter.com/daltonbr)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play the bass 🎸
 
 <!--
 **daltonbr/daltonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
