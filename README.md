@@ -1,9 +1,29 @@
-### Hi there 👋, I am Dalton, a Software Engineer / Game Developer
+<h1 align='center'>
+  Hi there 👋 I'm Dalton a Software Engineer 👨‍💻
+</h1>
 
-- 🔭 Unity • Unreal • C# • C++ • Mobile
-- 📫 [daltonlima.com](https://daltonlima.com) • [twitter.com/daltonbr](https://twitter.com/daltonbr)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I play the bass 🎸
+<p align='center'>
+  A Software Engineer - Unity | C# | .NET 🎮
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/daltonlima/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@dalton-lima/join">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://x.com/daltonbr">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daltonbr&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <!--
 **daltonbr/daltonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
