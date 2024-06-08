@@ -20,9 +20,17 @@
   </a>&nbsp;&nbsp;
 </div>
 
+<br>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daltonbr&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+<a href="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCTk4hR5N9e_Rmixdp4lEPNw?style=social"  alt="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1"/>
+  </a>
+
+  <br>
 
 <!--
 **daltonbr/daltonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
