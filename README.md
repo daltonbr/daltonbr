@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@dalton-lima/join">
+  <a href="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
 
