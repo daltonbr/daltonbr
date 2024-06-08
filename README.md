@@ -2,11 +2,11 @@
   Hi there 👋 I'm Dalton 👨‍💻
 </h1>
 
-<p style="text-align: center;">
+<div align="center">
   A Software Engineer - Unity | C# | .NET 🎮
-</p>
+</div>
 
-<p style="text-align: center;">
+<div align="center">
   <a href="https://www.linkedin.com/in/daltonlima/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -18,8 +18,7 @@
   <a href="https://x.com/daltonbr">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-</p>
+</div>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=daltonbr&show_icons=true&count_private=true&theme=dark" width="350"></a>
