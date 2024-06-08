@@ -2,7 +2,7 @@
   Hi there 👋 I'm Dalton 👨‍💻
 </h1>
 
-<p align='center'>
+<p style="text-align: center;">
   A Software Engineer - Unity | C# | .NET 🎮
 </p>
 
